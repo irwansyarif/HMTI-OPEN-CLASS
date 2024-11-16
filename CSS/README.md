@@ -7,7 +7,7 @@
 - Color: color, background-color.
 - Text: text-align, text-decoration, text-transform.
 - Box Model: margin, padding, border, width, height.
-- ayout: display, position, float.
+- Layout: display, position, float.
 
 ## Penjelasan @Media
 @media adalah fitur dalam CSS yang memungkinkan kita untuk membuat tampilan web yang responsif dan menyesuaikan gaya tampilan berdasarkan karakteristik perangkat yang digunakan, seperti ukuran layar, orientasi (potrait atau landscape), resolusi, dan sebagainya. Dengan kata lain, kita bisa membuat tampilan yang berbeda untuk desktop, tablet, dan smartphone.
