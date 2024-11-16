@@ -1,6 +1,5 @@
 # HTML: Struktur dari Halaman Web
 
-## HTML tags and their purpose
 ## Basic HTML structure: 
 ``` <html>, <head>, <body> ```
 ## Common HTML elements: 
