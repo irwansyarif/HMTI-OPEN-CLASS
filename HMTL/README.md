@@ -37,14 +37,14 @@ Untuk memahami lebih jelas, mari kita lihat contoh kode berikut:
 Pada contoh semantic HTML, kita menggunakan tag < nav > yang secara eksplisit menunjukkan ini adalah bagian navigasi. Sedangkan pada contoh non-semantic HTML, kita menggunakan tag < div > yang tidak memberikan informasi apa pun tentang kontennya.
 
 # Jenis-jenis Elemen Semantic HTML
-<header>: Digunakan untuk menandai bagian kepala atau header dari sebuah halaman atau seksi. Biasanya berisi judul, logo, navigasi utama.
+``` <header>: Digunakan untuk menandai bagian kepala atau header dari sebuah halaman atau seksi. Biasanya berisi judul, logo, navigasi utama.
 <nav>: Digunakan untuk menandai bagian navigasi utama dalam sebuah halaman.
 <main>: Digunakan untuk menandai konten utama dari sebuah halaman.
 <section>: Digunakan untuk menandai seksi-seksi dalam sebuah halaman.
 <article>: Digunakan untuk menandai konten yang mandiri, seperti artikel, posting blog, atau komentar.
 <aside>: Digunakan untuk menandai konten yang bersifat sampingan atau tambahan, seperti sidebar atau widget.
 <footer>: Digunakan untuk menandai bagian kaki halaman, biasanya berisi informasi seperti copyright, kontak, atau tautan ke halaman lain.
-
+```
 # Tambahan
 ``` <figure>: Digunakan untuk menandai konten media (gambar, diagram) yang mungkin disertai dengan caption.
 <figcaption>: Digunakan untuk menandai caption dari elemen <figure>.
