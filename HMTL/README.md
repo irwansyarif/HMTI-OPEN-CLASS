@@ -1,9 +1,17 @@
 # HTML: Struktur dari Halaman Web
 
 ## Basic HTML structure: 
-``` <html>, <head>, <body> ```
+``` <html>: Merupakan tag pembuka dan penutup utama dari sebuah dokumen HTML. Ini menandakan awal dan akhir dari seluruh kode HTML dalam halaman web. 
+<head>: agian kepala dari dokumen HTML. Di sini kita meletakkan informasi meta tentang halaman, seperti judul, deskripsi, stylesheet, dan script. Informasi ini tidak langsung ditampilkan di halaman web, tetapi digunakan oleh browser dan mesin pencari. <body>: Bagian tubuh dari dokumen HTML. Di sinilah kita meletakkan semua konten yang akan ditampilkan di halaman web, seperti teks, gambar, tabel, dan formulir.
+```
 ## Common HTML elements: 
-``` <h1>, <p>, <a>, <img>, <ul>, <ol>```
+``` <h1>: Digunakan untuk membuat judul. Tag <h1> adalah judul paling besar, dan <h6> adalah yang terkecil. 
+<p>: Digunakan untuk membuat paragraf.
+<a>: Digunakan untuk membuat tautan (link) ke halaman lain atau bagian lain dalam halaman yang sama.
+<img>: Digunakan untuk menyisipkan gambar ke dalam halaman web.
+<ul>: Digunakan untuk membuat daftar yang tidak berurutan (unordered list).
+<ol>: Digunakan untuk membuat daftar yang berurutan (ordered list).
+```
 
 - Semantic HTML adalah konsep dalam pengembangan web yang berfungsi menyediakan makna atau arti lebih dalam kode HTML. Dalam semantic HTML, masing-masing elemen memiliki nama yang mencerminkan arti dari kontennya, bukan hanya presentasinya. Semantic membantu mesin pencari dan perangkat pembaca layar (screen reader) untuk memahami struktur dan konten dari halaman web dengan lebih maksimal.
 Artinya,  jika kamu ingin membuat kode yang mudah dipahami, tidak hanya oleh manusia tapi juga oleh mesin, semantic HTML adalah solusi yang tepat.
